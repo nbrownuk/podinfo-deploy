@@ -1,0 +1,1 @@
+{"jobID":"654d3099-3833-ed3a-d143-1feb681a845a","spec":{"type":"policy","cause":{"Message":"","User":"Nigel Brown \u003cnigel@windsock.io\u003e"},"spec":{"dev:deployment/podinfo":{"add":null,"remove":{"automated":"true"}}}},"result":null}
