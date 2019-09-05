@@ -1,0 +1,1 @@
+{"jobID":"449371ae-a578-0225-4c92-a045015f9679","spec":{"type":"policy","cause":{"Message":"","User":"Nigel Brown \u003cnigel@windsock.io\u003e"},"spec":{"dev:deployment/podinfo":{"add":null,"remove":{"locked":"true","locked_msg":"\"\"","locked_user":"Nigel Brown \u003cnigel@windsock.io\u003e"}}}},"result":null}
