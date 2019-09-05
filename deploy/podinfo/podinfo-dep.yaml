@@ -7,6 +7,9 @@ metadata:
   annotations:
     flux.weave.works/tag.podinfod: glob:*
     flux.weave.works/automated: 'true'
+    flux.weave.works/locked_user: Nigel Brown <nigel@windsock.io>
+    flux.weave.works/locked: 'true'
+    flux.weave.works/locked_msg: '""'
 spec:
   replicas: 4
   selector:
